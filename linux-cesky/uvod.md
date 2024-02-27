@@ -24,3 +24,4 @@ Práce s terminálem nezávislá na Linux distribuci, kterou zvládnou i prarodi
 ### Správa software - programů a aplikací
 Jak se instalují a odinstalovávají programy v Linuxu?
 1. Instalace a odinstalace programů
+2. Nastavení systému
