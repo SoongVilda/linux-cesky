@@ -5,7 +5,7 @@ Zde jsou návody pro hraní na Linuxu, je třeba také splnit následující bod
 2. Vědět jméno nainstalované Linux distribuce.
 
 ## Steam
-Nainstalovat `Steam` přes správce balíčků dané Linux distribuce.
+Nainstalovat `steam` přes správce balíčků dané Linux distribuce.
 
 ### Co to je Steam?
 Je třeba zde něco psát? :)
