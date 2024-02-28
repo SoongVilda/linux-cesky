@@ -11,7 +11,7 @@ Pro hraní her existuje celá řada nástrojů, které jsou nutností nebo aspo�
 - [vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - odnož VKD3D, s cílem implementovat plnou API Direct3D 12 na základě Vulkanu. Tento projekt slouží jako vývojové úsilí pro podporu Direct3D 12 ve Protonu.
 
 ## Další nástroje
-Tyto nástroje jsou zvláště nápomocné pro zpřístupňění spouštěčů, jako **Ubisoft connect**, **Battle.net**, **GOG Galaxy** a další.
+Tyto nástroje jsou zvláště nápomocné pro zpřístupňění spouštěčů, jako **Ubisoft connect**, **Battle.net**, **GOG Galaxy** a další.  
 ***Zajímavost:** Steam jako jediný funguje nativně na Linuxu a lze ho najít v repozitářích snad na každé Linux distribuci.*
 - [Lutris](https://lutris.net/)
 - [Bottles](https://usebottles.com/)
@@ -35,7 +35,7 @@ Výhody hraní her na Linuxu a vysvětlení.
 
 ## Nevýhody
 ---
-Nic není růžové, teď je čas na nevýhody.
+Nevýhody hraní her na Linuxu a vysvětlení.
 
 ### Kompatibilita
 Některé hry naopak nejsou kompatibilní s Linuxem, z pravidla ty co čerstvě výjdou.
