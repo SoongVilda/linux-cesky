@@ -1,6 +1,5 @@
 # Hraní her
-Na Linuxu lze hrát stejně jako na Windows, jsou zde výhody i nevýhody, které poskytují z hraní ekvivalentní zážitek.  
-***Zajímavost:** Steam deck jako herní konzole se SteamOS právě proto využívá Linux*
+Na Linuxu se hraje podobně jako na Windows. Určité hry fungují lépe, jiné hůře, některé vůbec - zejména hry využívající anti-cheat technologii. Pozitivem je **skvělá kompatibilita se staršími hrami**, menší nutnost výkonného zařízení. Toho využívá herní konzole Steam Deck postavená na Linuxové distribuci SteamOS.
 
 # Úvod do hraní na Linuxu
 Linux využívá nástroje pro spouštění her, které dosahující kvalit, umožňující existenci komerčního produktu - herní konzole **Steam deck** s Linux distribucí SteamOS.
