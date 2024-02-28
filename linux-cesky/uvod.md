@@ -4,7 +4,7 @@ Vítejte na stránkách o Linuxu Discord komunity [Linux CZ/SK](https://discord.
 # Seznámení s Linuxem
 Níže jsou připravené jednotlivé sekce, které vás Linuxem provedou.
 
-## Co to je Linux?
+## Co to je Linux?//
 Linux, je **operační systém**, který pohání váš počítač. Stejně jako Windows nebo macOS umožňuje spouštět programy, pracovat se soubory a procházet internet.
 - [Vlastnosti a Linuxu](vlastnosti-linuxu.md)
 
@@ -15,7 +15,7 @@ V případě otázek "Proč bych měl používat Linux?", "Co Linuxu přináší
 Zde je seznam běžných čiností, které lze dělat stejně (nebo velmi podobně) jako na Windows.
 - [Prohlížení webu](co-lze-na-linuxu-delat/prohlizeni-webu.md)
 - [Kancelářská práce](co-lze-na-linuxu-delat/kancelarska-prace.md)
-- [Hraní her](co-lze-na-linuxu-delat/hrani-her.md)
+- [Hraní her](co-lze-na-linuxu-delat/hrani-her/hrani-her.md)
 
 ## Instalace na zařízení
 Instalace Linuxu do počítače nebo notebooku.
