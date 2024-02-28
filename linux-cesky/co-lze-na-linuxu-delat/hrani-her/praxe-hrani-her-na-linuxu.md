@@ -4,6 +4,21 @@ Zde jsou návody pro hraní na Linuxu, je třeba také splnit následující bod
 1. Funkční ovladače grafické karty.
 2. Vědět jméno nainstalované Linux distribuce.
 
+## Rozcestník
+- [Steam](#steam)
+- [Lutris](#lutris)
+  - GOG
+  - Humble Bundle
+  - Epic Games Store
+  - itch.io
+  - EA app
+  - Ubisoft Connect
+  - Amazon Prime Gaming
+  - Flathub
+  - Battle.net
+- [Bottles](#bottles)
+- [Heroic Games Launcher](#heroic-games-launcher)
+
 ## Steam
 Nainstalovat `steam` přes správce balíčků dané Linux distribuce.
 ### Co to je Steam?
