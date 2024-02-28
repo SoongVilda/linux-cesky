@@ -13,7 +13,7 @@ V případě otázek **"Proč bych měl používat Linux?"** nebo **"Co přiná�
 1. **Menší finanční náklady na počítač:** Náklady na počítač nebo notebook jsou vysoké kvůli nárokům Windows, zejména Windows 11 tyto nároky posouvá na ještě více nepříjemnou úroveň, ale s Linuxem je možné ušetřit peníze.
 2. **Delší životnost počítače:** Dokud se počítač fyzicky nerozpadne, může s Linuxem fungovat dál, zatímco s Windows by byl dávno nepoužitelný a bylo by nutné koupit nový počítač.
 3. **Konec otravným aktualizacím:** Linux aktualizace nevnucuje, je dobré občas aktualizace nainstalovat, ale kdy se tak stane, je výhradně rozhodnutí uživatele.
-4. **Prakticky neomezený čas zapnutí počítače:** Počítač s Linuxem může zůstat zapnutý klidně 10 dní a nepoznáte to, zatímco Windows po třech dnech je na hranici použitelnosti.
+4. **Prakticky neomezený čas zapnutí počítače:** Linux je dělaný se záměrem, že počítač nebude možné dlouho vypnout. To o Windows říct nelze.
 5. **Žádné reklamy:** Ne, reklamy v Linuxu opravdu nejsou.
 
 ## Co lze na Linuxu dělat?
