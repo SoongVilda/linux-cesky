@@ -17,6 +17,7 @@ V případě otázek **"Proč bych měl používat Linux?"** nebo **"Co přiná�
 3. **Konec otravným aktualizacím:** Linux aktualizace nevnucuje, je dobré občas aktualizace nainstalovat, ale kdy se tak stane, je výhradně rozhodnutí uživatele.
 4. **Prakticky neomezený čas zapnutí počítače:** Linux je dělaný se záměrem, že počítač nebude možné dlouho vypnout. To o Windows říct nelze.
 5. **Žádné reklamy:** Ne, reklamy v Linuxu opravdu nejsou.
+6. **Prakticky neexistující viry:** Z povahy fungování Linuxu zde neexistují typické viry, jako na Windows, takže pro uživatele je Linux daleko bezpečnější, na antivir lze zapomenout.
 
 ## Co lze na Linuxu dělat?
 Zde je seznam běžných čiností, které lze dělat stejně (nebo velmi podobně) jako na Windows.
