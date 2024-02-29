@@ -20,12 +20,16 @@ V případě otázek **"Proč bych měl používat Linux?"** nebo **"Co přiná�
 6. **Prakticky neexistující viry:** Z povahy fungování Linuxu zde neexistují typické viry, jako na Windows, takže pro uživatele je Linux daleko bezpečnější, na antivir lze zapomenout.
 
 ## Co lze na Linuxu dělat?
-Zde je seznam běžných čiností, které lze dělat stejně (nebo velmi podobně) jako na Windows.
+Zde je seznam běžných čiností, které lze dělat stejně (nebo velmi podobně) jako na Windows. Sekce obsahuje i návody, ukázky.
 - [Prohlížení webu](co-lze-na-linuxu-delat/prohlizeni-webu.md)
 - [Kancelářská práce](co-lze-na-linuxu-delat/kancelarska-prace.md)
 - [Hraní her](co-lze-na-linuxu-delat/hrani-her/hrani-her.md)
 
-## Jak Linux vyzkoušet?
+## Jaké máme Linux distribuce a jakou si vybrat?
+Existuje mnoho distribucí Linuxu. Následující návody pomohou se v nich lépe orientovat a vybrat tu pravou.
+- Úvod do Linux distribucí
+
+## Jak si danou Linux distribuci vyzkoušet?
 Pokud jste se rozhodli Linux vyzkoušet, tak doporučujeme následující kroky.
 1. **Zkouška ve virtuálním počítač:** Návod a vysvětlení, jak zkusit Linux přímo z Windows.
 2. **Zkouška pomocí liveboot:** Zkouška Linuxu přímo na počítač, bez nutnosti odinstalovat Windows.
