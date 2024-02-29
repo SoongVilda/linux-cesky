@@ -17,12 +17,29 @@ Zde jsou návody pro hraní na Linuxu, je třeba také splnit následující bod
   - Flathub
   - Battle.net
 - [Bottles](#bottles)
+  - Epic Games Store
+  - Ubisoft Connect
+  - Origin
+  - EA Launcher
+  - GOG Galaxy
+  - GOg Galaxy v1
+  - Blizzard Battle.net
+  - Star Citizen
+  - Enlisted
+  - FL Studio
+  - Ableton Live
+  - Autodesk Fusion
+  - MEGAsync   
 - [Heroic Games Launcher](#heroic-games-launcher)
 
 ## Steam
 Nainstalovat `steam` přes správce balíčků dané Linux distribuce.
 ### Co to je Steam?
 Je třeba zde něco psát? :)
+
+### Aktivace Protonu ve Steamu
+Pro možnost hrát hry určené pro Windows na Linuxu je potřeba povolit [Proton](https://github.com/ValveSoftware/Proton).
+- [Aktivace Protonu](proton/aktivace-proton.md) - Obrázkový návod, který ukazuje, jak aktivovat Proton ve Steamu, včetně několika tipů.
 
 ## Lutris
 Nainstalovat `lutris` přes správce balíčků dané Linux distribuce.
