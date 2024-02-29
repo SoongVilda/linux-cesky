@@ -4,6 +4,8 @@ Vítejte na stránkách o Linuxu Discord komunity [Linux CZ/SK](https://discord.
 # Seznámení s Linuxem
 Níže jsou připravené jednotlivé sekce, které vás Linuxem provedou.
 
+***Rada na začátek:** K Linuxu nelze uživatelsky přistupovat stejně jako k Windows nebo MacOS, každý operační systém má svoje.*
+
 ## Co to je Linux?
 Linux, je **operační systém**, který pohání váš počítač. Stejně jako Windows nebo macOS umožňuje spouštět programy, pracovat se soubory a procházet internet.
 - [Vlastnosti a Linuxu](vlastnosti-linuxu.md)
@@ -22,8 +24,11 @@ Zde je seznam běžných čiností, které lze dělat stejně (nebo velmi podobn
 - [Kancelářská práce](co-lze-na-linuxu-delat/kancelarska-prace.md)
 - [Hraní her](co-lze-na-linuxu-delat/hrani-her/hrani-her.md)
 
-## Instalace na zařízení
-Instalace Linuxu do počítače nebo notebooku.
+## Jak Linux vyzkoušet?
+Pokud jste se rozhodli Linux vyzkoušet, tak doporučujeme následující kroky.
+1. **Zkouška ve virtuálním počítač:** Návod a vysvětlení, jak zkusit Linux přímo z Windows.
+2. **Zkouška pomocí liveboot:** Zkouška Linuxu přímo na počítač, bez nutnosti odinstalovat Windows.
+3. **Instalace přímo do počítače:** Před instalací Linuxu do počítače, si přečtěte [Adaptační plán pro Linux](jak-vyzkouset-linux/adaptacni-plan-pro-linux.md).
 
 ## Terminál
 Práce s terminálem nezávislá na Linux distribuci, kterou zvládnou i prarodiče.  
