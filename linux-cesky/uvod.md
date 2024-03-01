@@ -27,7 +27,7 @@ Zde je seznam běžných čiností, které lze dělat stejně (nebo velmi podobn
 
 ## Jaké máme Linux distribuce a jakou si vybrat?
 Existuje mnoho distribucí Linuxu. Následující návody pomohou se v nich lépe orientovat a vybrat tu pravou.
-- Úvod do Linux distribucí
+- [Úvod do Linux distribucí](uvod-do-linux-distribuci.md)
 
 ## Jak si danou Linux distribuci vyzkoušet?
 Pokud jste se rozhodli Linux vyzkoušet, tak doporučujeme následující kroky.
